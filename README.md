@@ -5,4 +5,3 @@
 <hr>
 ## 文章目录
 [#1 AngularJS开发中遇到的一些问题](https://github.com/masterkong/blog/issues/1)
-#1
