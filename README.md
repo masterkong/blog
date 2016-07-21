@@ -5,3 +5,4 @@
 
 ## 文章目录
 [#1 AngularJS开发中遇到的一些问题](https://github.com/masterkong/blog/issues/1)
+[#2 AngularJS中$sce和$sanitize服务](https://github.com/masterkong/blog/issues/2)
