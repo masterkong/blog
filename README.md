@@ -4,6 +4,8 @@
 <hr>
 
 ## 文章目录
+[#4 Vue.$nextTick背后的Event Loop,Tasks, microtasks](https://github.com/masterkong/blog/issues/4)
+
 [#3 CSS样式层叠和优先级](https://github.com/masterkong/blog/issues/3)
 
 [#2 AngularJS中$sce和$sanitize服务](https://github.com/masterkong/blog/issues/2)
