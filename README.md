@@ -3,7 +3,7 @@
 
 <hr>
 
-[置顶帖：收集个人学习中觉得很好的文章](https://github.com/masterkong/blog/issues/5)
+[个人学习中觉得很好的文章](https://github.com/masterkong/blog/issues/5)
 
 <hr>
 
