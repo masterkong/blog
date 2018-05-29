@@ -3,11 +3,13 @@
 
 <hr>
 
-[个人学习中觉得很好的文章](https://github.com/masterkong/blog/issues/5)
+[#5 个人学习中觉得很好的文章](https://github.com/masterkong/blog/issues/5)
 
 <hr>
 
 ## 文章目录
+[#6 Puppeteer入门简介](https://github.com/masterkong/blog/issues/6)
+
 [#4 Vue.$nextTick背后的Event Loop,Tasks, microtasks](https://github.com/masterkong/blog/issues/4)
 
 [#3 CSS样式层叠和优先级](https://github.com/masterkong/blog/issues/3)
