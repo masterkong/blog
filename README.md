@@ -8,6 +8,8 @@
 <hr>
 
 ## 文章目录
+[#7 Vue高版本中的一些新特性的使用](https://github.com/masterkong/blog/issues/7)
+
 [#6 Puppeteer入门简介](https://github.com/masterkong/blog/issues/6)
 
 [#4 Vue.$nextTick背后的Event Loop,Tasks, microtasks](https://github.com/masterkong/blog/issues/4)
