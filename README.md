@@ -8,7 +8,7 @@
 <hr>
 
 ## 文章目录
-[#7 Vue高版本中的一些新特性的使用](https://github.com/masterkong/blog/issues/7)
+[#7 Vue高版本中一些新特性的使用](https://github.com/masterkong/blog/issues/7)
 
 [#6 Puppeteer入门简介](https://github.com/masterkong/blog/issues/6)
 
