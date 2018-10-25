@@ -8,6 +8,8 @@
 <hr>
 
 ## 文章目录
+[#8 ESLint与WebStorm、VSCode的集成](https://github.com/masterkong/blog/issues/8)
+
 [#7 Vue高版本中一些新特性的使用](https://github.com/masterkong/blog/issues/7)
 
 [#6 Puppeteer入门简介](https://github.com/masterkong/blog/issues/6)
