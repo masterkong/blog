@@ -8,6 +8,8 @@
 <hr>
 
 ## 文章目录
+[#9 写给自己看的React-Redux源码实现](https://github.com/masterkong/blog/issues/9)
+
 [#8 ESLint与WebStorm、VSCode的集成](https://github.com/masterkong/blog/issues/8)
 
 [#7 Vue高版本中一些新特性的使用](https://github.com/masterkong/blog/issues/7)
