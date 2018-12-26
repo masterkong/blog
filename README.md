@@ -8,6 +8,8 @@
 <hr>
 
 ## 文章目录
+[#10 基于vue-cli 3的定制脚手架命令行工具开发实践](https://github.com/masterkong/blog/issues/10)
+
 [#9 写给自己看的React-Redux源码实现](https://github.com/masterkong/blog/issues/9)
 
 [#8 ESLint与WebStorm、VSCode的集成](https://github.com/masterkong/blog/issues/8)
