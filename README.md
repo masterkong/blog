@@ -8,6 +8,8 @@
 <hr>
 
 ## 文章目录
+[#13 Vue动态(new)创建组件实例](https://github.com/masterkong/blog/issues/13)
+
 [#12 whistle-基于Node实现的跨平台web调试代理工具](https://github.com/masterkong/blog/issues/12)
 
 [#11 Vuex中模块(Module)在复杂业务中的应用](https://github.com/masterkong/blog/issues/11)
