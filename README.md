@@ -8,6 +8,8 @@
 <hr>
 
 ## 文章目录
+[#14 Vue预渲染插件prerender-spa-plugin使用全记录](https://github.com/masterkong/blog/issues/14)
+
 [#13 Vue动态(new)创建组件实例](https://github.com/masterkong/blog/issues/13)
 
 [#12 whistle-基于Node实现的跨平台web调试代理工具](https://github.com/masterkong/blog/issues/12)
