@@ -8,6 +8,10 @@
 <hr>
 
 ## 文章目录
+[#16 Git代码回滚与找回](https://github.com/masterkong/blog/issues/16)
+
+[#15 OpenResty的安装使用](https://github.com/masterkong/blog/issues/15)
+
 [#14 Vue预渲染插件prerender-spa-plugin使用全记录](https://github.com/masterkong/blog/issues/14)
 
 [#13 Vue动态(new)创建组件实例](https://github.com/masterkong/blog/issues/13)
